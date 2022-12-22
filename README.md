@@ -17,7 +17,7 @@ An portfolio project involving a detailed analysis of 37,997 high school/college
 
 - This **[data set](https://content.cloudfront.entrylevel.net/experience/data3/module-4/Module+4+-+Task+Files.zip?_gl=1*pfl0lt*_ga*MTkwNzE2MzgwOC4xNjY2NzE1NTk0*_ga_8RTQ11GGMX*MTY3MDgwMTEyMS44OC4xLjE2NzA4MDUzNzcuNjAuMC4w)** contains four csv files of student data provided by Entry Level for the purpose of this report. The four csv files contain data about the _country info, student academic info, student family details_ and _student personal details_ respectively for 4739 unique student id. The four dataset were combine using sqliteonline to form a report table which served as our database from where we then created additional tables used to answer our research questions.
 
-- The loan dataset includes :
+- Key column variables in the dataset includes :
 
 | variables | Details |
 | --------------------- | ---------------------- |
