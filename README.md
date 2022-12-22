@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [Dataset](#dataset)
-  - [Root Cause Analysis Process](#root-cause-analysis-process
+  - [Root Cause Analysis Process](#root-cause-analysis-process)
   - [Links](#links)
   - [Built with](#built-with)
   - [Key Insights](#key-insights)
@@ -40,20 +40,20 @@ An portfolio project involving a detailed analysis of 37,997 high school/college
 ## Root Cause Analysis Process
 To ascertain a root cause analysis, we attempted to answer the followimg questions with the newly created tables
 
-1.What are the proportion of educated students by ethnicity
-2.How can we evaluate the Cost of college tuition against household income
-3.What is the effect of a student's parents  education on the education of the student
-4.Is location of school a determinant on tuition 
-5.What is the differences in student's performance with respect to where the school is location
-6.Which ethnic group has a higher performance rate in schools and which gender performs better on average?
-7.Does the age of a student have an effect on their academic performance in school?
+1. What are the proportion of educated students by ethnicity
+2. How can we evaluate the Cost of college tuition against household income
+3. What is the effect of a student's parents  education on the education of the student
+4. Is location of school a determinant on tuition 
+5. What is the differences in student's performance with respect to where the school is location
+6. Which ethnic group has a higher performance rate in schools and which gender performs better on average?
+7. Does the age of a student have an effect on their academic performance in school?
  
 
 ### Links
 
 #### Solution URL: 
 
-- [Project Report Pdf](./Entry level SQL Project Report.pdf)
+- [Project Report Pdf](https://github.com/mchenryspagg/sql-portfolio-project/blob/main/Entry%20level%20SQL%20Project%20Report%20.pdf)
 - [Project Report html](./EntrylevelSQLProjectReport.html)
 - [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1T5HlrqKuRvhDzu9ofcwCqE803xdeEHrwQJzeyDyOobw/edit#gid=36790771)
 
