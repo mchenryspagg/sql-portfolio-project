@@ -11,11 +11,11 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-An portfolio project involving a detailed analysis of 37,997 high school/college student records to showcase key insights through the aid of effective visualizations aimed at evaluating the factors affecting student's academic performance in high school and colleges in the US.
+A portfolio project involving a detailed analysis of 37,997 high school/college student records to showcase key insights through the aid of effective visualizations aimed at evaluating the factors affecting student's academic performance in high school and colleges in the USA.
 
 ## Dataset
 
-- This **[data set](https://content.cloudfront.entrylevel.net/experience/data3/module-4/Module+4+-+Task+Files.zip?_gl=1*pfl0lt*_ga*MTkwNzE2MzgwOC4xNjY2NzE1NTk0*_ga_8RTQ11GGMX*MTY3MDgwMTEyMS44OC4xLjE2NzA4MDUzNzcuNjAuMC4w)** contains four csv files of student data provided by Entry Level for the purpose of this report. The four csv files contain data about the _country info, student academic info, student family details_ and _student personal details_ respectively for 4739 unique student id. The four dataset were combine using sqliteonline to form a report table which served as our database from where we then created additional tables used to answer our research questions.
+- This **[data set](https://content.cloudfront.entrylevel.net/experience/data3/module-4/Module+4+-+Task+Files.zip?_gl=1*pfl0lt*_ga*MTkwNzE2MzgwOC4xNjY2NzE1NTk0*_ga_8RTQ11GGMX*MTY3MDgwMTEyMS44OC4xLjE2NzA4MDUzNzcuNjAuMC4w)** contains four csv files of student data provided by Entry Level for the purpose of this report. The four csv files contain data about the _country info, student academic info, student family details_ and _student personal details_ respectively for 37997 student records. The four datasets were combined using sqlite to form a reporting table which served as our database from where we then created additional tables used to answer our research questions.
 
 - Key column variables in the dataset includes :
 
@@ -54,20 +54,19 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 #### Solution URL: 
 
 - [Project Report Pdf](https://github.com/mchenryspagg/sql-portfolio-project/blob/main/Entry%20level%20SQL%20Project%20Report%20.pdf)
-- [Project Report html](./EntrylevelSQLProjectReport.html)
 - [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1T5HlrqKuRvhDzu9ofcwCqE803xdeEHrwQJzeyDyOobw/edit#gid=36790771)
 
 
 ### Built with
 
-- SQLiteOnline
+- SQLite
 - Google Sheets
 - Pivot tables, SQL Aggregations
 
 ## Key Insights
 
 - The African American students are the least represented while the 'other' category of students are the most represented in our student's sample.						
-Average number of years spent by students in school is 14 years for students of all ethnicities.	
+- Average number of years spent by students in school is 14 years for students of all ethnicities.	
 						
 - There was no considerable effect of a student's age on their academic scores.						
 
