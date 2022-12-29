@@ -53,7 +53,7 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 
 #### Solution URL: 
 
-- [Project Report Pdf](https://github.com/mchenryspagg/sql-portfolio-project/blob/main/Entry%20level%20SQL%20Project%20Report%20.pdf)
+- [Project Report](https://docs.google.com/document/d/1d0wj1cdi-x8tIzow57xym-FpXygyPph0XvvPOV3cm8c/edit?usp=sharing)
 - [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1T5HlrqKuRvhDzu9ofcwCqE803xdeEHrwQJzeyDyOobw/edit#gid=36790771)
 
 
