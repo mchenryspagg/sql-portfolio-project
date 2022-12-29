@@ -53,8 +53,8 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 
 #### Solution URL: 
 
-- [Project Report](https://docs.google.com/document/d/1d0wj1cdi-x8tIzow57xym-FpXygyPph0XvvPOV3cm8c/edit?usp=sharing)
-- [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1T5HlrqKuRvhDzu9ofcwCqE803xdeEHrwQJzeyDyOobw/edit#gid=36790771)
+- [Project Report](https://docs.google.com/document/d/e/2PACX-1vQDrdOXLbYOLBZJiz0ZcsCNWr7T_4agMGUqDgihyaA9nERqRnwAP7P6l0uOfNGFC6ktzxMRE0dVWk73/pub)
+- [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8upZC6jUWUWom88WhFAnp6bxs6vlykOnz8ak5SmOqZ-IjR2ny8aNszT3yjFKj-izQ4EvY2KIJn-kv/pubhtml?gid=36790771&single=true)
 
 
 ### Built with
