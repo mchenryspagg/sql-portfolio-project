@@ -53,7 +53,7 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 
 #### Solution URL: 
 
-- [Project Report](https://docs.google.com/document/d/e/2PACX-1vQDrdOXLbYOLBZJiz0ZcsCNWr7T_4agMGUqDgihyaA9nERqRnwAP7P6l0uOfNGFC6ktzxMRE0dVWk73/pub)
+- [Project Report](https://drive.google.com/file/d/1g_9eSkNoOTPBWlbdGwKpvYdr_TC8jHWZ/view?usp=share_link)
 - [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8upZC6jUWUWom88WhFAnp6bxs6vlykOnz8ak5SmOqZ-IjR2ny8aNszT3yjFKj-izQ4EvY2KIJn-kv/pubhtml?gid=36790771&single=true)
 
 
